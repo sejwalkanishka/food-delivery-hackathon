@@ -3,6 +3,7 @@ The hackathon was a great hands-on experience that helped me understand real-wor
 # Food Delivery Data Analysis Hackathon 🍔📊
 
 This repository contains the complete solution for the Food Delivery Data Analysis Hackathon.
+- Implemented business-focused analysis using Pandas groupby, filtering, and time-series techniques
 
 ## 📂 Datasets Used
 - orders.csv – Transactional order data
